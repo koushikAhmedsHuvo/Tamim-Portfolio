@@ -6,9 +6,11 @@ import { Link } from 'react-router-dom';
 const Footer = () => {
   return (
     <div className="bg-white text-black border border-gold shadow-lg py-6">
-      <div className="max-w-6xl mx-auto flex justify-between items-center px-4">
+      <div className="max-w-6xl mx-auto flex flex-col sm:flex-row justify-between items-center px-4">
         {/* Left part */}
-        <div>
+        <div className="mb-4 sm:mb-0">
+          {' '}
+          {/* Add margin bottom for small devices */}
           <p className="text-sm text-gray-400">{footerData.copyright}</p>
         </div>
         {/* Right part */}
