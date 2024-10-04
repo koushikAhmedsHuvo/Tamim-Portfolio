@@ -1,0 +1,167 @@
+{
+  "categories": ["Web Development", "Leadership", "Education"],
+  "introText": "Collaborate with me to take your business online and boost its growth.",
+  "mainTitle": "Empower Your Business to Thrive Online",
+  "buttons": [
+    {
+      "text": "Resume",
+      "bgColor": "bg-gold",
+      "textColor": "text-black",
+      "path": "/resume"
+    },
+    {
+      "text": "Projects",
+      "bgColor": "bg-black",
+      "textColor": "text-white",
+      "path": "/projects"
+    }
+  ],
+  "profileImage": {
+    "src": "https://i.ibb.co.com/2y9P7SS/profile.png",
+    "alt": "Profile",
+    "width": "465px",
+    "height": "525px"
+  },
+  "name": {
+    "first": "Tamim",
+    "last": "Iqbal"
+  },
+  "navLinks": [
+    {
+      "text": "Home",
+      "path": "/"
+    },
+    {
+      "text": "Resume",
+      "path": "/resume"
+    },
+    {
+      "text": "Contact",
+      "path": "/contact"
+    },
+    {
+      "text": "Projects",
+      "path": "/projects"
+    }
+  ],
+  "about": {
+    "title": "About Me",
+    "subtitle": "Innovative Web Developer and Education Pioneer",
+    "description": [
+      "I am a dedicated and skilled PHP and WordPress Web Developer with over 4 years of hands-on experience in creating dynamic and visually appealing websites. As the Founder & CEO of Instructorium and the Founder and Chairman of ASD - Akbor Skills Development Limited, I am passionate about revolutionizing education by offering diverse technical and non-technical courses within a dynamic, industry-driven ecosystem.",
+      "With a robust background in SEO, HTML, CSS, and JavaScript, I have successfully managed and contributed to significant projects, including e-learning platforms and marketing agency websites. My technical expertise also encompasses Google Analytics, Linux, Generative AI, and the Laravel Framework, ensuring comprehensive and efficient web development solutions."
+    ],
+    "socialLinks": [
+      {
+        "color": "text-gold",
+        "hoverColor": "hover:text-black"
+      },
+      {
+        "color": "text-gold",
+        "hoverColor": "hover:text-black"
+      },
+      {
+        "color": "text-gold",
+        "hoverColor": "hover:text-black"
+      },
+      {
+        "color": "text-gold",
+        "hoverColor": "hover:text-black"
+      },
+      {
+        "color": "text-gold",
+        "hoverColor": "hover:text-black"
+      }
+    ]
+  },
+  "copyright": "Copyright © Tamim Iqbal 2023",
+  "links": [
+    {
+      "text": "ASD",
+      "url": "https://akbor.org/"
+    },
+    {
+      "text": "Instructorium",
+      "url": "https://instructorium.com/"
+    },
+    {
+      "text": "Enroll Course",
+      "url": "https://instructorium.com/courses/"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Project 1: Luxury Sustainable Hotels & Retreats",
+      "description": "I led the complete reconstruction of lushia.org, crafting a dynamic online platform for Luxury Sustainable Hotels & Retreats International Association (LUSH). The project involved creating an interactive website that showcased eco-friendly hospitality brands, integrated online courses, a marketplace, and certifications, emphasizing sustainability and wellness."
+    },
+    {
+      "title": "Project 2: Build Trusted Electrical Website",
+      "description": "As the sole developer behind trustedelectrical.co.nz, I designed and developed the website for Trusted Electrical Solutions Limited. The site served as a comprehensive platform showcasing the company's diverse electrical services, offering insights into new installations, repairs, and maintenance. Additionally, I ensured a seamless user experience and managed technical aspects to enhance the site's functionality."
+    },
+    {
+      "title": "Project 3: Instructorium eLearning Platform",
+      "description": "Being the primary architect of Instructorium.com, I created an innovative website tailored to the diverse technical and non-technical courses offered by Instructorium. The platform was designed to facilitate online learning, live sessions, and offline programs, aiming to foster an interactive learning environment conducive to professional skill development."
+    },
+    {
+      "title": "Project 4: Youtiqa Marketing Agency Website",
+      "description": "As the solo developer for the Youtiqa Marketing Agency website (youtiqa.com), I meticulously designed and developed the platform to showcase the agency's comprehensive services and impressive portfolio. The website features a user-friendly interface, emphasizing Youtiqa's expertise in marketing strategies and their successful projects. My focus was on creating a visually appealing site that effectively communicates the agency's value proposition to potential clients."
+    },
+    {
+      "title": "Project 5: Volts Electric Limited Website",
+      "description": "I designed and developed the comprehensive website for Volts Electric Limited (voltselectric.co.nz), showcasing the breadth of electrical services and expertise offered by the company. The project involved a strategic layout to highlight the company's extensive portfolio, ensuring a user-friendly experience that promotes engagement. Key features were integrated to demonstrate Volts Electric Limited's capabilities, from residential to commercial projects, reinforcing their position as a leading electrical contractor."
+    },
+    {
+      "title": "Project 6: De Castro Group Website",
+      "description": "As the sole developer, I built the website for De Castro Group (decastro.group), a multifaceted platform designed to showcase the diverse services offered by the company. The site features an elegant design, with a focus on user experience and engagement, effectively communicating the company's strengths in multiple sectors, including hospitality, real estate, and consulting."
+    },
+    {
+      "title": "Project 7: Regenerative Hospitality Institute",
+      "description": "I developed the website for the Regenerative Hospitality Institute (lms.decastro.group), focusing on promoting the institute's mission to redefine hospitality through sustainability and regeneration. The site was built to serve as an educational resource, providing access to a wealth of knowledge, courses, and certifications aimed at transforming the hospitality industry."
+    }
+  ],
+  "experiences": [
+    {
+      "date": "02/24 - Present",
+      "title": "Senior Web Developer",
+      "company": "LUSH Remote (Mexico)",
+      "description": "In my role as a Senior Web Developer at Luxury Sustainable Hotels & Retreats International Association (LUSH), I have spearheaded the development and continuous enhancement of a platform that showcases luxury sustainable hotels and retreats. My work focuses on integrating sustainable practices and certifications into the website, elevating the user experience through intuitive design and functionality."
+    },
+    {
+      "date": "06/23 - 2/24",
+      "title": "Technical Manager",
+      "company": "Trusted Electrical Remote (New Zealand)",
+      "description": "As the Technical Manager at Trusted Electrical Solutions Limited, I oversee a wide spectrum of electrical services, ensuring top-notch quality in installations, repairs, and upgrades for both residential and commercial clients in Auckland. My role involves website creation, management, and technical oversight to guarantee seamless operations and exceptional service delivery."
+    },
+    {
+      "date": "01/23 - 07/23",
+      "title": "WordPress Developer",
+      "company": "LUSH Remote (Spain)",
+      "description": "At Luxury Sustainable Hotels & Retreats International Association (LUSH), my focus as a WordPress Developer was pivotal in crafting and managing websites for luxury sustainable hotels and retreats. I facilitated the integration of online courses, marketplace functionalities, and sustainability-driven certifications. My role contributed to promoting eco-friendly hospitality brands and fostering community engagement through digital platforms."
+    }
+  ],
+  "education": [
+    {
+      "date": "2019 - 2023",
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "International University of Business (IUB)",
+      "description": "Graduated with a focus on software development, data structures, algorithms, and cloud computing. Actively participated in coding challenges, group projects, and was a member of the ACM Student Chapter."
+    },
+    {
+      "date": "2017 - 2019",
+      "degree": "Higher Secondary Certificate (HSC)",
+      "institution": "ABC College of Science",
+      "description": "Completed with a major in Science, focusing on Mathematics, Physics, and Computer Science. Graduated with distinction and participated in science fairs and extracurricular clubs."
+    }
+  ],
+  "skills": {
+    "professionalSkills": [
+      "Web Development",
+      "WordPress Design",
+      "Technical Management",
+      "Leadership",
+      "Project Management",
+      "Skill Development"
+    ],
+    "languages": ["HTML", "CSS", "C and C#", "JavaScript", "React", "Python"]
+  }
+}
