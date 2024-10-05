@@ -15,7 +15,7 @@ const Projects = () => {
       {projectsData.projects.map((project, index) => (
         <div
           key={index}
-          className="bg-white w-full sm:w-[790px] p-6 sm:p-12 border border-gold shadow-lg mb-8 rounded-[25px]"
+          className="bg-white w-full sm:w-[790px] p-6 sm:p-12 border border-[#FFD700] shadow-lg mb-8 rounded-[25px]"
         >
           <h2 className="text-xl sm:text-2xl font-semibold mb-4">
             {project.title}
@@ -28,14 +28,19 @@ const Projects = () => {
       ))}
 
       {/* Contact section */}
-      <div className="h-auto sm:h-[400px] w-full flex flex-col justify-center items-center mt-14 border border-gray-300 shadow-lg rounded-lg p-8 sm: mb-5">
+      <div
+        className="h-auto sm:h-[400px] w-full flex flex-col justify-center items-center mt-14 border border-gray-300 shadow-lg rounded-lg p-8 sm: mb-5"
+        style={{
+          background: 'linear-gradient(135deg, #1e30f3 0%, #e21e80 100%)',
+        }}
+      >
         {/* Centered content */}
         <h1 className="text-2xl sm:text-3xl font-bold text-black mb-4 text-center">
           Let's build something together
         </h1>
         <Link
           to="/contact"
-          className="flex justify-center items-center w-[160px] sm:w-[190px] h-[57px] sm:h-[60px] border border-white text-white bg-gold font-semibold rounded-lg hover:bg-white hover:text-black transition duration-300"
+          className="flex justify-center items-center w-[160px] sm:w-[190px] h-[57px] sm:h-[60px] border border-white text-white bg-transparent font-semibold rounded-lg hover:bg-white hover:text-black transition duration-300"
         >
           Contact me
         </Link>

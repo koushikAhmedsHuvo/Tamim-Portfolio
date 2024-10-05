@@ -14,11 +14,17 @@ const Skills = () => {
           </h1>
 
           {/* Combined Skills Section */}
-          <div className="mb-8 border border-gold shadow-lg p-6 sm:p-14">
+          <div className="mb-8 border border-[#FFD700] shadow-lg p-6 sm:p-14">
             {/* Professional Skills Header */}
             <div className="flex items-center mb-4">
-              <div className="w-[48px] h-[48px] sm:w-[48px] sm:h-[48px] border rounded-lg flex justify-center items-center bg-black">
-                <BsTools className="w-[24px] h-[24px] sm:w-[24px] sm:h-[24px] text-gold" />
+              <div
+                className="w-[48px] h-[48px] sm:w-[48px] sm:h-[48px] border rounded-lg flex justify-center items-center "
+                style={{
+                  background:
+                    'linear-gradient(135deg, #1e30f3 0%, #e21e80 100%)',
+                }}
+              >
+                <BsTools className="w-[24px] h-[24px] sm:w-[24px] sm:h-[24px] text-white" />
               </div>
               <p className="ml-4 text-2xl sm:text-2xl font-semibold text-gray-800">
                 Professional Skills
@@ -39,8 +45,14 @@ const Skills = () => {
 
             {/* Languages Section Header */}
             <div className="flex items-center mb-4 mt-5">
-              <div className="w-[48px] h-[48px] sm:w-[48px] sm:h-[48px] border rounded-lg flex justify-center items-center bg-black">
-                <CgCodeSlash className="w-[24px] h-[24px] sm:w-[24px] sm:h-[24px] text-gold" />
+              <div
+                className="w-[48px] h-[48px] sm:w-[48px] sm:h-[48px] border rounded-lg flex justify-center items-center "
+                style={{
+                  background:
+                    'linear-gradient(135deg, #1e30f3 0%, #e21e80 100%)',
+                }}
+              >
+                <CgCodeSlash className="w-[24px] h-[24px] sm:w-[24px] sm:h-[24px] text-white" />
               </div>
               <p className="ml-4 text-2xl sm:text-2xl font-semibold text-gray-800">
                 Languages

@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        gold: '#FFD700', // Define your golden color
+        gold: '#1E30f3',
+        blue: '#1D4ED8',
       },
     },
   },

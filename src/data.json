@@ -1,12 +1,12 @@
 {
-  "categories": ["Web Development", "Leadership", "Education"],
+  "categories": ["Web Development Enthusiast"],
   "introText": "Collaborate with me to take your business online and boost its growth.",
   "mainTitle": "Empower Your Business to Thrive Online",
   "buttons": [
     {
       "text": "Resume",
       "bgColor": "bg-gold",
-      "textColor": "text-black",
+      "textColor": "text-white",
       "path": "/resume"
     },
     {
@@ -17,14 +17,14 @@
     }
   ],
   "profileImage": {
-    "src": "https://i.ibb.co.com/2y9P7SS/profile.png",
+    "src": "https://i.ibb.co.com/932cBMs/Whats-App-Image-2024-10-05-at-10-26-39-PM-removebg.png",
     "alt": "Profile",
     "width": "465px",
     "height": "525px"
   },
   "name": {
-    "first": "Tamim",
-    "last": "Iqbal"
+    "first": "Koushik",
+    "last": "Ahmed"
   },
   "navLinks": [
     {
@@ -46,10 +46,9 @@
   ],
   "about": {
     "title": "About Me",
-    "subtitle": "Innovative Web Developer and Education Pioneer",
+    "subtitle": "Innovative Web Developer and Tech Enthusiast",
     "description": [
-      "I am a dedicated and skilled PHP and WordPress Web Developer with over 4 years of hands-on experience in creating dynamic and visually appealing websites. As the Founder & CEO of Instructorium and the Founder and Chairman of ASD - Akbor Skills Development Limited, I am passionate about revolutionizing education by offering diverse technical and non-technical courses within a dynamic, industry-driven ecosystem.",
-      "With a robust background in SEO, HTML, CSS, and JavaScript, I have successfully managed and contributed to significant projects, including e-learning platforms and marketing agency websites. My technical expertise also encompasses Google Analytics, Linux, Generative AI, and the Laravel Framework, ensuring comprehensive and efficient web development solutions."
+      "I am a Computer Science and Engineering graduate with a strong passion for web development. Throughout my academic journey, I developed a keen interest in this field, often implementing my academic projects as web applications. This hands-on experience allowed me to deepen my understanding of web technologies and foster a continuous drive for self-improvement. I possess expertise in both frontend and backend development, with a particular proficiency in React.js for creating dynamic user interfaces. On the backend, I utilize the Flask framework to build robust applications. Additionally, I have knowledge of PHP Laravel and Ruby on Rails, which enables me to adapt to various project requirements and frameworks.My skills extend beyond frameworks; I am well-versed in the Software Development Life Cycle (SDLC) and adept at designing database structures. I can effectively manipulate databases using SQL and MySQL and am proficient in creating Entity-Relationship Diagrams (ERD) and applying normalization techniques to ensure optimal database design.I am committed to leveraging my skills and knowledge to contribute to innovative web solutions while continually seeking opportunities to enhance my expertise in the ever-evolving tech landscape."
     ],
     "socialLinks": [
       {
@@ -74,7 +73,7 @@
       }
     ]
   },
-  "copyright": "Copyright © Tamim Iqbal 2023",
+  "copyright": "Copyright © Koushik Ahmed 2024",
   "links": [
     {
       "text": "ASD",
@@ -91,65 +90,69 @@
   ],
   "projects": [
     {
-      "title": "Project 1: Luxury Sustainable Hotels & Retreats",
-      "description": "I led the complete reconstruction of lushia.org, crafting a dynamic online platform for Luxury Sustainable Hotels & Retreats International Association (LUSH). The project involved creating an interactive website that showcased eco-friendly hospitality brands, integrated online courses, a marketplace, and certifications, emphasizing sustainability and wellness."
+      "title": "Project 1: Food Oder System",
+      "description": "As part of my academic coursework for CSE307, I developed a comprehensive web application that simulates a food ordering platform similar to Foodpanda. The frontend was built using HTML, CSS, and JavaScript, while PHP and MySQL were used for backend development. The platform includes a range of user features, allowing users to sign up, log in, browse restaurant menus, place orders online, and provide feedback about the food and restaurants. Additionally, the system offers robust restaurant features, enabling multiple restaurants to create accounts, manage their menus, and efficiently process customer orders."
     },
     {
-      "title": "Project 2: Build Trusted Electrical Website",
-      "description": "As the sole developer behind trustedelectrical.co.nz, I designed and developed the website for Trusted Electrical Solutions Limited. The site served as a comprehensive platform showcasing the company's diverse electrical services, offering insights into new installations, repairs, and maintenance. Additionally, I ensured a seamless user experience and managed technical aspects to enhance the site's functionality."
+      "title": "Project 2: Student Management System",
+      "description": "As part of my academic coursework for Database Management Systems (CSE303), I participated in a project aimed at enhancing an existing Student Management System. The frontend was developed using HTML, CSS, Bootstrap, and JavaScript, with PHP and MySQL used for the backend. The project involved several key steps, starting with a thorough problem analysis to identify issues and propose solutions for the newly presented challenges within the system. A rich picture was created to visually represent the system's processes and interactions, followed by the formulation of detailed business rules to ensure consistent operations. I also designed an Entity-Relationship Diagram (ERD) to illustrate relationships between entities within the system, and finally, I developed a database schema, performing normalization to optimize the structure for efficiency."
     },
     {
-      "title": "Project 3: Instructorium eLearning Platform",
-      "description": "Being the primary architect of Instructorium.com, I created an innovative website tailored to the diverse technical and non-technical courses offered by Instructorium. The platform was designed to facilitate online learning, live sessions, and offline programs, aiming to foster an interactive learning environment conducive to professional skill development."
+      "title": "Project 3: Shipyard Company",
+      "description": "As part of my academic coursework for Object-Oriented Programming (CSE213), I participated in a team-based project focused on developing a system for a ShipYard Company using Java and JavaFX. The project began with the selection of the ShipYard Company as the primary focus. Each team member identified two specific users within the system and defined eight key goals for each user, outlining their roles and objectives. We then created UML diagrams for each user, which were later merged into a comprehensive system model. The implementation was done in Java, applying Object-Oriented Programming principles to ensure the system was modular, reusable, and scalable. Additionally, we developed the user interface using SceneBuilder and integrated it with the Java code to provide a seamless and intuitive user experience."
     },
     {
-      "title": "Project 4: Youtiqa Marketing Agency Website",
-      "description": "As the solo developer for the Youtiqa Marketing Agency website (youtiqa.com), I meticulously designed and developed the platform to showcase the agency's comprehensive services and impressive portfolio. The website features a user-friendly interface, emphasizing Youtiqa's expertise in marketing strategies and their successful projects. My focus was on creating a visually appealing site that effectively communicates the agency's value proposition to potential clients."
+      "title": "Project 4: Website for a Restaurant",
+      "description": "During my internship, I developed a restaurant website as part of a task to enhance my React.js skills. The project involved replicating an existing website provided by my supervisor. Key aspects of the project included accurately mimicking both the design and functionality of the specified website to practice React.js development. I utilized various React libraries such as AOS (Animate On Scroll), React Router, and React Icons to incorporate smooth animations and interactive features. The content was dynamically integrated from a JSON file, ensuring a structured and maintainable approach. Additionally, I focused on implementing a fully responsive design using Tailwind CSS, ensuring an optimal user experience across all devices and screen sizes."
     },
     {
-      "title": "Project 5: Volts Electric Limited Website",
-      "description": "I designed and developed the comprehensive website for Volts Electric Limited (voltselectric.co.nz), showcasing the breadth of electrical services and expertise offered by the company. The project involved a strategic layout to highlight the company's extensive portfolio, ensuring a user-friendly experience that promotes engagement. Key features were integrated to demonstrate Volts Electric Limited's capabilities, from residential to commercial projects, reinforcing their position as a leading electrical contractor."
+      "title": "Project 5: Appointment_shedule_Chat_bot",
+      "description": "During my internship, I developed the frontend of an Appointment Schedule Chat Bot for a client, based on a Figma design provided by my supervisor. Key aspects of the project included accurately replicating the design from the Figma file, ensuring that the final product adhered closely to the client's specifications. I also focused on ensuring the application was fully responsive, delivering an optimal user experience across different devices. For the frontend development, I utilized React.js and Tailwind CSS, emphasizing clean, maintainable code and efficient performance."
     },
     {
-      "title": "Project 6: De Castro Group Website",
-      "description": "As the sole developer, I built the website for De Castro Group (decastro.group), a multifaceted platform designed to showcase the diverse services offered by the company. The site features an elegant design, with a focus on user experience and engagement, effectively communicating the company's strengths in multiple sectors, including hospitality, real estate, and consulting."
+      "title": "Project 6: Tour Guide App",
+      "description": "For my System Analysis and Design course, I developed a comprehensive project focused on analyzing and solving a specific problem within the tour guiding industry. The project began with identifying and thoroughly researching the problem, including a review of relevant articles and academic papers to gain a deeper understanding of the industry's challenges. I conducted a detailed problem analysis to identify the core issues and proposed an optimal solution using various system design techniques.To support the design, I created a series of detailed diagrams and documentation, which helped in visualizing the solution. Additionally, I conducted interviews and surveys to gather further insights and data, enriching the analysis and informing the final system design."
     },
     {
-      "title": "Project 7: Regenerative Hospitality Institute",
-      "description": "I developed the website for the Regenerative Hospitality Institute (lms.decastro.group), focusing on promoting the institute's mission to redefine hospitality through sustainability and regeneration. The site was built to serve as an educational resource, providing access to a wealth of knowledge, courses, and certifications aimed at transforming the hospitality industry."
+      "title": "Project 7: Blog app using Flask",
+      "description": "To enhance my backend development skills, I undertook a project using the Flask framework, with the frontend built using HTML, CSS, and Bootstrap. The application focuses on implementing comprehensive CRUD (Create, Read, Update, Delete) operations. For user management, I implemented functionalities that allow for the creation, updating, and deletion of user records. Similarly, post management features enable users to create, update, and delete posts, with the added functionality of searching for posts by ID and viewing specific post details. The frontend was designed to be responsive and user-friendly, leveraging HTML, CSS, and Bootstrap. On the backend, Flask was used to handle server-side logic, while SQLAlchemy was employed for database management, providing an efficient Object-Relational Mapping (ORM) solution."
+    },
+    {
+      "title": "Project 8: E-ommerce Webapp",
+      "description": "I developed a project using React.js, Tailwind CSS, and the Context API, with local storage for data persistence. The UI design was based on a Figma prototype that I meticulously replicated. Key features of the application include user authentication, allowing users to sign up and log in to the system. Logged-in users can browse and purchase products seamlessly. The application also includes robust cart functionality, enabling users to add products to their cart and adjust quantities by increasing or decreasing items as needed. To effectively manage application state and ensure user data persists across sessions, I utilized the Context API along with local storage."
     }
   ],
   "experiences": [
     {
-      "date": "02/24 - Present",
-      "title": "Senior Web Developer",
-      "company": "LUSH Remote (Mexico)",
-      "description": "In my role as a Senior Web Developer at Luxury Sustainable Hotels & Retreats International Association (LUSH), I have spearheaded the development and continuous enhancement of a platform that showcases luxury sustainable hotels and retreats. My work focuses on integrating sustainable practices and certifications into the website, elevating the user experience through intuitive design and functionality."
+      "date": "03/2024 – 05/2024",
+      "title": "Software Developer Internship",
+      "company": "Excite Ai Limited(Mohammadpur)",
+      "description": "I completed three months internship in this company.Within these three months i learned React Js tailwindCss and Typescript for frontend and python , flask for backend development."
     },
     {
-      "date": "06/23 - 2/24",
-      "title": "Technical Manager",
-      "company": "Trusted Electrical Remote (New Zealand)",
-      "description": "As the Technical Manager at Trusted Electrical Solutions Limited, I oversee a wide spectrum of electrical services, ensuring top-notch quality in installations, repairs, and upgrades for both residential and commercial clients in Auckland. My role involves website creation, management, and technical oversight to guarantee seamless operations and exceptional service delivery."
+      "date": "08/2023 – 01/2024",
+      "title": "Web Developer Internship(Part time)",
+      "company": "Gen X Intel(Ontario, Canada)",
+      "description": "I completed remote internship in this company for three months.Within these three months they taught me Ruby on Rails, Wordpress and shopify.They assigned a teacher to teach me ruby on rails and provide a udemy course for wordpress."
     },
     {
-      "date": "01/23 - 07/23",
-      "title": "WordPress Developer",
-      "company": "LUSH Remote (Spain)",
-      "description": "At Luxury Sustainable Hotels & Retreats International Association (LUSH), my focus as a WordPress Developer was pivotal in crafting and managing websites for luxury sustainable hotels and retreats. I facilitated the integration of online courses, marketplace functionalities, and sustainability-driven certifications. My role contributed to promoting eco-friendly hospitality brands and fostering community engagement through digital platforms."
+      "date": "11/22 - 11/23",
+      "title": "Director of Competitive Programming",
+      "company": "Iub ACM Student Chapter",
+      "description": "As the Director of Competitive Programming for one year, I was responsible for facilitating communication between students and faculty regarding competitive programming practice sessions organized by our esteemed faculty, acting as an intermediary to ensure effective dissemination of information. Additionally, I arranged and oversaw competitive programming competitions each semester to encourage participation and skill development among members. My role also involved actively participating in all club events to support and promote the chapter's activities and objectives, while representing the chapter in departmental events and contributing to the broader academic and extracurricular community."
     }
   ],
   "education": [
     {
-      "date": "2019 - 2023",
-      "degree": "Bachelor of Science in Computer Science",
-      "institution": "International University of Business (IUB)",
-      "description": "Graduated with a focus on software development, data structures, algorithms, and cloud computing. Actively participated in coding challenges, group projects, and was a member of the ACM Student Chapter."
+      "date": "2020 - 2024",
+      "degree": "Bachelor of Science in Computer Science and Engineering",
+      "institution": "Independent University Bangladesh (IUB)",
+      "description": "Graduated with a focus on software development, data structures, algorithms, and system design and analysis. Actively participated in coding challenges, group projects, and was a member of the ACM Student Chapter."
     },
     {
       "date": "2017 - 2019",
       "degree": "Higher Secondary Certificate (HSC)",
-      "institution": "ABC College of Science",
+      "institution": "Islamiya Govt. Collage ,Sirajganj",
       "description": "Completed with a major in Science, focusing on Mathematics, Physics, and Computer Science. Graduated with distinction and participated in science fairs and extracurricular clubs."
     }
   ],
@@ -157,11 +160,28 @@
     "professionalSkills": [
       "Web Development",
       "WordPress Design",
-      "Technical Management",
+      "problem Solving",
       "Leadership",
-      "Project Management",
-      "Skill Development"
+      "Adaptability",
+      "Time Management"
     ],
-    "languages": ["HTML", "CSS", "C and C#", "JavaScript", "React", "Python"]
+    "languages": [
+      "HTML",
+      "CSS",
+      "C++",
+      "JavaScript",
+      "React",
+      "Python",
+      "Java",
+      "Ruby",
+      "TypeScript",
+      "Php",
+      "Flask",
+      "Laravel",
+      "Ruby on Rails",
+      "Sql",
+      "TailwindCss",
+      "Bootstrap"
+    ]
   }
 }

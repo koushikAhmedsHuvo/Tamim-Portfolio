@@ -8,11 +8,16 @@ const Home = () => {
       {/* Content Box */}
       <div className="max-w-[1044px] w-full h-auto p-4 sm:p-8 flex flex-col items-center justify-center bg-white mb-7">
         {/* Categories */}
-        <div className="flex flex-row flex-wrap justify-center space-x-8 mb-5 text-white border bg-gold rounded p-1">
+        <div
+          className="flex flex-row flex-wrap justify-center space-x-8 mb-5 text-white border rounded p-4"
+          style={{
+            background: 'linear-gradient(135deg, #1e30f3 0%, #e21e80 100%)',
+          }}
+        >
           {homeData.categories.map((category, index) => (
             <p key={index} className="text-sm sm:text-base">
               {category}
-            </p> // Responsive text size
+            </p>
           ))}
         </div>
         {/* Intro Text */}
@@ -29,7 +34,7 @@ const Home = () => {
             <Link
               to={button.path}
               key={index}
-              className={`flex justify-center items-center ${button.bgColor} ${button.textColor} w-[160px] h-[55px] rounded-md shadow-md transition duration-300 hover:bg-black hover:text-white`}
+              className={`flex justify-center items-center ${button.bgColor} ${button.textColor} w-[160px] h-[55px] rounded-md shadow-md transition duration-300 hover:bg-white hover:text-black`}
             >
               {button.text}
             </Link>
@@ -42,7 +47,7 @@ const Home = () => {
         <img
           src={homeData.profileImage.src}
           alt={homeData.profileImage.alt}
-          className="w-[300px] sm:w-[465px] h-auto object-cover rounded-[30px] border-4 border-gold shadow-md"
+          className="w-[300px] sm:w-[465px] h-auto object-cover rounded-[30px] border-2 border-gold shadow-md"
         />
       </div>
     </div>

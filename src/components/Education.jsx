@@ -19,7 +19,7 @@ const Education = () => {
         {educationData.education.map((edu, index) => (
           <div
             key={index}
-            className="flex flex-col sm:flex-row bg-white border border-gold shadow-lg rounded-lg p-6 sm:p-8 mb-4"
+            className="flex flex-col sm:flex-row bg-white border border-[#FFD700] shadow-lg rounded-lg p-6 sm:p-8 mb-4"
           >
             {/* Left Column - Date and Degree */}
             <div className="w-full sm:w-[200px] sm:pr-8 sm:border-r border-gray-200 mb-4 sm:mb-0">

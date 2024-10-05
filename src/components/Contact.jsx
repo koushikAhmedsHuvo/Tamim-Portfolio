@@ -5,11 +5,16 @@ const Contact = () => {
   return (
     <div className="flex justify-center items-center mb-14 mt-14 p-4 sm:p-8">
       {/* Use padding and width adjustments for responsiveness */}
-      <div className="w-full sm:w-[865px] border border-gold shadow-lg rounded-lg p-6 sm:p-12 bg-white">
+      <div className="w-full sm:w-[865px] border border-[#FFD700] shadow-lg rounded-lg p-6 sm:p-12 bg-white">
         {/* Center content */}
         <div className="flex justify-center mb-6">
-          <div className="h-[48px] w-[48px] border border-gray-300 rounded-lg bg-gold flex justify-center items-center">
-            <BsEnvelope className="w-[24px] h-[24px] text-gray-700" />
+          <div
+            className="h-[48px] w-[48px] border border-gray-300 rounded-lg flex justify-center items-center"
+            style={{
+              background: 'linear-gradient(135deg, #1e30f3 0%, #e21e80 100%)',
+            }}
+          >
+            <BsEnvelope className="w-[24px] h-[24px] text-white" />
           </div>
         </div>
 
@@ -43,7 +48,7 @@ const Contact = () => {
           <input
             type="submit"
             value="Submit"
-            className="w-full sm:w-[495px] h-[47px] bg-black text-white rounded-lg hover:bg-white hover:text-black transition duration-300 cursor-pointer"
+            className="w-full sm:w-[495px] h-[47px] bg-gold text-white rounded-lg hover:bg-white hover:text-black transition duration-300 cursor-pointer"
           />
         </form>
       </div>

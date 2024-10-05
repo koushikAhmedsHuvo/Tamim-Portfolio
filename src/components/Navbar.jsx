@@ -11,7 +11,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="bg-white py-6 px-8 border-b border-gold shadow-lg">
+    <div className="bg-white py-6 px-8 border-b border-[#FFD700] shadow-lg">
       <div className="flex justify-between items-center">
         {/* Left part: Name */}
         <div className="text-black text-3xl font-bold">

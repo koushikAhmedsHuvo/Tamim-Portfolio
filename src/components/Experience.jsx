@@ -17,7 +17,7 @@ const Experience = () => {
           </h1>
 
           <a
-            href="/assets/Tamim_Iqbal_CV.pdf"
+            href="/assets/Md.koushik-Ahmed-Shuvo.pdf"
             download
             className="w-[190px] sm:w-[218px] h-[50px] sm:h-[57px] bg-black text-white font-semibold rounded-lg hover:bg-white hover:text-black transition duration-300 flex items-center justify-center mt-4 sm:mt-0"
           >
@@ -29,7 +29,7 @@ const Experience = () => {
         {experienceData.experiences.map((experience, index) => (
           <div
             key={index}
-            className="flex flex-col sm:flex-row bg-white border border-gold shadow-lg rounded-lg p-6 sm:p-8 mb-4"
+            className="flex flex-col sm:flex-row bg-white border border-[#FFD700] shadow-lg rounded-lg p-6 sm:p-8 mb-4"
           >
             {/* Left Column - Date and Title */}
             <div className="w-full sm:w-[200px] sm:pr-8 sm:border-r border-gray-200 mb-4 sm:mb-0">
